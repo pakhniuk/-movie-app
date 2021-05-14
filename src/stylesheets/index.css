@@ -1,0 +1,15 @@
+body {
+  background: #f1f1f1; }
+
+.header {
+  padding: 10px 0;
+  background: #454545; }
+  .header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; }
+  .header .logo {
+    color: #f1f1f1; }
+
+.invalid-feedback {
+  display: block; }
